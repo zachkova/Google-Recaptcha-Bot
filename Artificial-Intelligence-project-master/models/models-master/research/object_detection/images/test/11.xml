@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black captcha</folder>
+	<filename>11.png</filename>
+	<path>C:\Users\Thoma\Downloads\Artificial-Intelligence-project-master\Artificial-Intelligence-project-master\object Detection Model\black captcha\11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1895</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>captcha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>733</ymin>
+			<xmax>716</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

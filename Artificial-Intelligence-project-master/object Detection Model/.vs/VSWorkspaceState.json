@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\images",
+    "\\training",
+    "\\utils"
+  ],
+  "SelectedNode": "\\generate_tfrecord.py",
+  "PreviewInSolutionExplorer": false
+}
